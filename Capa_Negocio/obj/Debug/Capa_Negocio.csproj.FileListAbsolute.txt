@@ -1,0 +1,11 @@
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Datos.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Entidad.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\bin\Debug\Capa_Entidad.pdb
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

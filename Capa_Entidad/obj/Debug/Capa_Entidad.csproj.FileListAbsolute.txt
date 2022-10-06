@@ -1,0 +1,6 @@
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\bin\Debug\Capa_Entidad.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\bin\Debug\Capa_Entidad.pdb
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\obj\Debug\Capa_Entidad.dll
+C:\Users\ALEJANDRO RODRIGUEZ\source\repos\Bases de datos reto 2\Capa_Entidad\obj\Debug\Capa_Entidad.pdb
